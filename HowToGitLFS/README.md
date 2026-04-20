@@ -1,4 +1,4 @@
-# Git LFS Setup Guide for GitHub Desktop (Mac)
+# How To setup Git LFS?
 
 <!-- ![Git LFS setup flowchart](./git-lfs.png) -->
 <img src="git-lfs.png" alt="Git LFS Flowchart" style="width:60%; height:auto; max-width:800px;">
